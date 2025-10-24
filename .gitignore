@@ -1,0 +1,83 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+build/
+ipch/
+
+## Visual C++ intermediate and output files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.lo
+*.la
+*.lai
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.sdf
+*.ipch/
+
+## NuGet
+packages/
+*.nupkg
+packages.config
+project.lock.json
+project.fragment.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+## VS Code / JetBrains / other IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+## Rider
+/.idea/
+
+## User-specific files
+*.rsuser
+*.user
+*.userprefs
+*.tmproj
+
+## Logs and database files
+*.log
+*.sqlite
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## temporary files
+*.tmp
+*.temp
+~$*
+
+## Others
+*.cache
+*.ilk
+*.meta
+
+# Ignore build folders from various projects
+**/bin/
+**/obj/
+
+# Optional: Uncomment if you track generated packages or backups
+# *.zip
+# *.tar.gz
